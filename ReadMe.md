@@ -1,0 +1,1 @@
+Familiarizing myself with FreeRTOS
